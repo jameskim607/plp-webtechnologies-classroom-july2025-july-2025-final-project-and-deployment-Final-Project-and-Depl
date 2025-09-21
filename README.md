@@ -1,90 +1,123 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+James Mbugua Kimani - Portfolio Website
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+A modern, responsive portfolio website showcasing my skills as a statistician and full-stack developer specializing in the MERN stack and data analysis.
 
----
+🌐 Live URL
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
 
-Before you write any code, take time to plan:
+🎯 Project Purpose
+This portfolio website serves as a professional showcase of my:
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+Technical skills in statistics and programming
 
-**Goal:** Show intentional structure and user journey across the site.
+Full-stack development capabilities (MERN stack)
 
----
+Data analysis and visualization projects
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+Professional background and experience
 
-Using your plan, begin building:
+📁 Project Structure
+text
+portfolio/
+├── index.html          # Home page with hero section and introduction
+├── about.html          # About me page with background and skills
+├── projects.html       # Projects showcase with descriptions
+├── contact.html        # Contact form page
+├── css/
+│   └── style.css       # Main stylesheet with CSS variables and responsive design
+├── js/
+│   └── script.js       # JavaScript for form validation and interactive elements
+└── image/             # Directory for all images
+    └── shot.jpg     # Profile picture
+🛠️ Technologies Used
+HTML5 - Semantic markup and structure
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+CSS3 - Modern styling with Flexbox/Grid and CSS variables
 
-Each page should:
+JavaScript - Form validation and interactive elements
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+Font Awesome - Icons
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+Google Fonts - Poppins and Montserrat fonts
 
----
+🎨 Design Features
+Modern UI - Clean, professional design with thoughtful spacing
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+Responsive Design - Fully responsive across all device sizes
 
-Before deployment, refactor your project to follow production-friendly practices:
+Smooth Animations - Subtle transitions and hover effects
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+Color Consistency - Unified color scheme using CSS variables
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+Accessibility - Proper contrast ratios and semantic HTML
 
----
+🚀 Key Pages
+Home (index.html)
+Hero section with introduction
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+Call-to-action buttons
 
-Once your project is complete, choose a method to **host your site online**.
+Professional background summary
 
-You can use:
+About (about.html)
+Personal introduction and background
 
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
+Education details (BSc in Statistics and Programming)
 
-Deploy your project and confirm that:
+Skills and expertise areas
 
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
+Projects (projects.html)
+Project showcase in card layout
 
-**Goal:** Publish your work online and make it accessible to the world.
+Detailed project descriptions
 
----
+Technologies used for each project
 
-## Deliverables
+Contact (contact.html)
+Functional contact form with validation
 
-1. A GitHub repository containing:
+Responsive form design
 
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+Form submission handling
 
----
+📱 Responsive Breakpoints
+Mobile: < 768px (optimized for smartphones)
 
-## Outcome
+Tablet: 768px - 992px (optimized for tablets)
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+Desktop: > 992px (optimized for large screens)
+
+🔧 Setup Instructions
+Clone or download the project files
+
+Add your profile image to the images folder as profile.jpg
+
+Customize the content in each HTML file with your information
+
+Update the contact form action if needed
+
+Upload to your hosting service of choice
+
+🌈 Color Scheme
+Primary: #4361ee (Blue)
+
+Secondary: #3a0ca3 (Dark Blue)
+
+Accent: #f72585 (Pink)
+
+Light: #f8f9fa (Light Gray)
+
+Dark: #212529 (Dark Gray)
+
+📞 Contact
+James Mbugua Kimani
+Email: your-email@example.com
+LinkedIn: Your LinkedIn Profile
+GitHub: Your GitHub Profile
+
+📄 License
+This project is open source and available under the MIT License.
+
+This portfolio was designed and developed by James Mbugua Kimani to showcase my skills and projects in web development and data analysis.
+
