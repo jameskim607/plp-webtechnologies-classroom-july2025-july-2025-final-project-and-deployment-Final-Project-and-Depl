@@ -1,10 +1,10 @@
 James Mbugua Kimani - Portfolio Website
-
+https://jameskimaniportfolio.vercel.app/
 
 A modern, responsive portfolio website showcasing my skills as a statistician and full-stack developer specializing in the MERN stack and data analysis.
 
 🌐 Live URL
-
+https://jameskimaniportfolio.vercel.app/
 
 🎯 Project Purpose
 This portfolio website serves as a professional showcase of my:
@@ -112,9 +112,9 @@ Dark: #212529 (Dark Gray)
 
 📞 Contact
 James Mbugua Kimani
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+Email: jamesmbugua607@gmail.com
+LinkedIn: 
+GitHub: https://github.com/jameskim607
 
 📄 License
 This project is open source and available under the MIT License.
